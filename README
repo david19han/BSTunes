@@ -1,0 +1,22 @@
+This program reads the iTunes data file that stores the track information
+in XML.  It provides a very simple interface to get the tracks out as a
+list.
+
+The ITunesPlaylistReader does most of the work by parsing the XML file
+(ugly!) and creating the track list.  The track class is also necessary
+since it represents the track information the students wil be processing.
+Main and TitleComparator are simply included as example classes.
+
+library.xml is provided as an example data file.
+
+
+To run the program, type one of the following:
+ java -classpath xerces.jar:. Main
+ java -classpath xerces_for_itunes.jar:. Main
+
+In the first example, the students must get the ITunesPlaylistReader file
+as part of the project and compile it with their program (in case you or
+they want to modify it (not recommended)). In the second case, it is 
+bundled into the jar file and so is not needed by the students directly.
+
+Have fun!

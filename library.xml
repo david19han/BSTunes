@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Major Version</key><integer>1</integer>
+    <key>Minor Version</key><integer>1</integer>
+    <key>Application Version</key><string>4.6</string>
+    <key>Music Folder</key><string>file://localhost/C:/Documents%20and%20Settings/Administrator/My%20Documents/My%20Music/iTunes/iTunes%20Music/</string>
+    <key>Library Persistent ID</key><string>0C02BD7C8FDF38D4</string>
+    <key>Tracks</key>
+    <dict>
+        <key>87</key>
+        <dict>
+            <key>Track ID</key><integer>87</integer>
+            <key>Name</key><string>All About Soul</string>
+            <key>Artist</key><string>Billy Joel</string>
+            <key>Album</key><string>River Of Dreams</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5783805</integer>
+            <key>Total Time</key><integer>361351</integer>
+            <key>Track Number</key><integer>6</integer>
+            <key>Track Count</key><integer>10</integer>
+            <key>Year</key><integer>1993</integer>
+            <key>Date Modified</key><date>2003-07-17T22:00:20Z</date>
+            <key>Date Added</key><date>2004-08-27T15:43:58Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Billy%20Joel%20-%20All%20About%20Soul.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>91</key>
+        <dict>
+            <key>Track ID</key><integer>91</integer>
+            <key>Name</key><string>Temptation</string>
+            <key>Artist</key><string>Billy Joel</string>
+            <key>Album</key><string>The Bridge</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4099847</integer>
+            <key>Total Time</key><integer>256104</integer>
+            <key>Track Number</key><integer>7</integer>
+            <key>Track Count</key><integer>9</integer>
+            <key>Year</key><integer>1986</integer>
+            <key>Date Modified</key><date>2003-07-18T01:11:36Z</date>
+            <key>Date Added</key><date>2004-08-27T15:43:58Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Billy%20Joel%20-%20Temptation.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>97</key>
+        <dict>
+            <key>Track ID</key><integer>97</integer>
+            <key>Name</key><string>This Is The Night</string>
+            <key>Artist</key><string>Clay Aiken</string>
+            <key>Album</key><string>American Idol 2</string>
+            <key>Genre</key><string>Pop</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3510273</integer>
+            <key>Total Time</key><integer>219245</integer>
+            <key>Year</key><integer>2003</integer>
+            <key>Date Modified</key><date>2004-08-27T17:20:24Z</date>
+            <key>Date Added</key><date>2004-08-27T15:43:58Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Clay%20Aiken%20-%20This%20is%20the%20Night%20(Live).mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>105</key>
+        <dict>
+            <key>Track ID</key><integer>105</integer>
+            <key>Name</key><string>Elephant Love Medley</string>
+            <key>Artist</key><string>Nicole Kidman, Ewan McGregor and Jamie Allen</string>
+            <key>Album</key><string>Moulin Rouge</string>
+            <key>Genre</key><string>Soundtrack</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4056670</integer>
+            <key>Year</key><integer>1999</integer>
+            <key>Total Time</key><integer>253387</integer>
+            <key>Track Number</key><integer>10</integer>
+            <key>Track Count</key><integer>15</integer>
+            <key>Date Modified</key><date>2004-08-27T17:19:38Z</date>
+            <key>Date Added</key><date>2004-08-27T15:43:59Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Elephant%20Love%20Medley%20(Nicole%20Kidman,%20Ewan%20McGregor%20and%20Jamie%20Allen).mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>121</key>
+        <dict>
+            <key>Track ID</key><integer>121</integer>
+            <key>Name</key><string>Breathe</string>
+            <key>Artist</key><string>Faith Hill</string>
+            <key>Composer</key><string>Holly Lamar/Stephanie Bentley</string>
+            <key>Album</key><string>Breathe</string>
+            <key>Genre</key><string>Country</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3988252</integer>
+            <key>Total Time</key><integer>249129</integer>
+            <key>Track Number</key><integer>4</integer>
+            <key>Year</key><integer>1999</integer>
+            <key>Date Modified</key><date>2003-06-16T02:47:40Z</date>
+            <key>Date Added</key><date>2004-08-27T15:43:59Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Faith%20Hill%20-%20Breathe.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>131</key>
+        <dict>
+            <key>Track ID</key><integer>131</integer>
+            <key>Name</key><string>L.O.V.E.</string>
+            <key>Artist</key><string>The Parent Trap</string>
+            <key>Album</key><string>The Parent Trap Soundtrack</string>
+            <key>Genre</key><string>Sound Track</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3655680</integer>
+            <key>Year</key><integer>1999</integer>
+            <key>Total Time</key><integer>152215</integer>
+            <key>Track Number</key><integer>1</integer>
+            <key>Date Modified</key><date>2003-07-17T20:06:20Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:00Z</date>
+            <key>Bit Rate</key><integer>192</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Frank%20Sinatra%20-%20L.O.V.E..mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>133</key>
+        <dict>
+            <key>Track ID</key><integer>133</integer>
+            <key>Name</key><string>A Friend Like You</string>
+            <key>Artist</key><string>Geoff Moore &#38; The Distance</string>
+            <key>Album</key><string>Evolution</string>
+            <key>Genre</key><string>CCM</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3205120</integer>
+            <key>Year</key><integer>1999</integer>
+            <key>Total Time</key><integer>200176</integer>
+            <key>Date Modified</key><date>2003-07-17T19:16:40Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:01Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Geoff%20Moore%20and%20The%20Distance%20-%20A%20Friend%20Like%20U.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>137</key>
+        <dict>
+            <key>Track ID</key><integer>137</integer>
+            <key>Name</key><string>Like Rain</string>
+            <key>Artist</key><string>Grin (Nils Lofgren)</string>
+            <key>Album</key><string>Soft Fun, Tough Tears 1971-1979</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3523900</integer>
+            <key>Year</key><integer>1979</integer>
+            <key>Total Time</key><integer>220107</integer>
+            <key>Track Number</key><integer>2</integer>
+            <key>Date Modified</key><date>2003-02-27T21:34:10Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:01Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Grin%20-%20Like%20Rain.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>143</key>
+        <dict>
+            <key>Track ID</key><integer>143</integer>
+            <key>Name</key><string>I Hope You Dance</string>
+            <key>Artist</key><string>Lee Ann Womack</string>
+            <key>Album</key><string></string>
+            <key>Genre</key><string>Country</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5926912</integer>
+            <key>Year</key><integer>1998</integer>
+            <key>Total Time</key><integer>296306</integer>
+            <key>Track Number</key><integer>2</integer>
+            <key>Date Modified</key><date>2001-01-05T16:21:04Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:01Z</date>
+            <key>Bit Rate</key><integer>160</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Lee%20Ann%20Womack%20-%20I%20Hope%20You%20Dance.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>145</key>
+        <dict>
+            <key>Track ID</key><integer>145</integer>
+            <key>Name</key><string>All Night Long</string>
+            <key>Artist</key><string>Lionel Richie</string>
+            <key>Album</key><string>Back To Front</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4170482</integer>
+            <key>Year</key><integer>1989</integer>
+            <key>Total Time</key><integer>260519</integer>
+            <key>Track Number</key><integer>4</integer>
+            <key>Track Count</key><integer>14</integer>
+            <key>Date Modified</key><date>2003-07-17T22:09:34Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:02Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Lionel%20Ritchie%20-%20All%20Night%20Long.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>155</key>
+        <dict>
+            <key>Track ID</key><integer>155</integer>
+            <key>Name</key><string>Unforgettable(duet with Natilie Cole)</string>
+            <key>Artist</key><string>Nat King Cole</string>
+            <key>Album</key><string>Unforgettable</string>
+            <key>Genre</key><string>Vocal</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3340288</integer>
+            <key>Year</key><integer>1999</integer>
+            <key>Total Time</key><integer>208692</integer>
+            <key>Track Number</key><integer>25</integer>
+            <key>Date Modified</key><date>2003-07-17T22:25:52Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:02Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Nat%20King%20Cole%20and%20Natilie%20Cole%20-%20Unforgettable.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>159</key>
+        <dict>
+            <key>Track ID</key><integer>159</integer>
+            <key>Name</key><string>Trouble Me</string>
+            <key>Artist</key><string>10000 Maniacs</string>
+            <key>Album</key><string>mtv unplugged</string>
+            <key>Genre</key><string>Acoustic</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3524006</integer>
+            <key>Total Time</key><integer>220212</integer>
+            <key>Year</key><integer>1993</integer>
+            <key>Date Modified</key><date>2003-07-17T22:33:20Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:03Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Comments</key><string>CD Rip by DACv2.3</string>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Natalie%20Merchant%20-%20Trouble%20Me.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>162</key>
+        <dict>
+            <key>Track ID</key><integer>162</integer>
+            <key>Name</key><string>Silly Love Songs</string>
+            <key>Artist</key><string>Paul McCartney &#38; Wings</string>
+            <key>Album</key><string>Wingspan - Hits &#38; History - Disc 1</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5683913</integer>
+            <key>Total Time</key><integer>355108</integer>
+            <key>Track Number</key><integer>7</integer>
+            <key>Track Count</key><integer>18</integer>
+            <key>Year</key><integer>1971</integer>
+            <key>Date Modified</key><date>2003-07-17T22:39:16Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:03Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Paul%20McCartney%20&#38;%20Wings%20-%20Silly%20Love%20Songs.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>172</key>
+        <dict>
+            <key>Track ID</key><integer>172</integer>
+            <key>Name</key><string>You'll Be in My Heart</string>
+            <key>Artist</key><string>Phil Collins</string>
+            <key>Album</key><string>Tarzan (Walt Disney)</string>
+            <key>Genre</key><string>Soundtrack</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4131910</integer>
+            <key>Total Time</key><integer>258220</integer>
+            <key>Track Number</key><integer>8</integer>
+            <key>Year</key><integer>2000</integer>
+            <key>Date Modified</key><date>2004-08-27T17:19:58Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:03Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Phil%20Collins%20-%20You'll%20Be%20in%20My%20Heart.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>180</key>
+        <dict>
+            <key>Track ID</key><integer>180</integer>
+            <key>Name</key><string>Have I Told You Lately</string>
+            <key>Artist</key><string>Rod Stewart</string>
+            <key>Album</key><string>Vagabond Heart</string>
+            <key>Genre</key><string>Pop</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5797723</integer>
+            <key>Total Time</key><integer>241449</integer>
+            <key>Track Number</key><integer>10</integer>
+            <key>Year</key><integer>1991</integer>
+            <key>Date Modified</key><date>2003-07-17T21:48:26Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:04Z</date>
+            <key>Bit Rate</key><integer>192</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Rod%20Stewart%20-%20Have%20I%20Told%20You%20Lately.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>191</key>
+        <dict>
+            <key>Track ID</key><integer>191</integer>
+            <key>Name</key><string>You're Still the One</string>
+            <key>Artist</key><string>Shania Twain</string>
+            <key>Album</key><string>Come On Over</string>
+            <key>Genre</key><string>Country</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3397966</integer>
+            <key>Total Time</key><integer>212218</integer>
+            <key>Track Number</key><integer>10</integer>
+            <key>Track Count</key><integer>16</integer>
+            <key>Year</key><integer>1997</integer>
+            <key>Date Modified</key><date>2002-12-20T18:36:26Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:04Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Shania%20Twain%20-%20You're%20Still%20the%20One.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>194</key>
+        <dict>
+            <key>Track ID</key><integer>194</integer>
+            <key>Name</key><string>Every Breath You Take</string>
+            <key>Artist</key><string>Sting</string>
+            <key>Composer</key><string>Sting</string>
+            <key>Album</key><string>...all this time advance release</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4870982</integer>
+            <key>Total Time</key><integer>304300</integer>
+            <key>Track Number</key><integer>15</integer>
+            <key>Year</key><integer>2001</integer>
+            <key>Date Modified</key><date>2003-04-30T00:52:06Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:04Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Sting%20-%20Every%20Breath%20You%20Take.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>196</key>
+        <dict>
+            <key>Track ID</key><integer>196</integer>
+            <key>Name</key><string>Beautiful Day</string>
+            <key>Artist</key><string>U2</string>
+            <key>Album</key><string>Promo from Interscope.Com</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5860626</integer>
+            <key>Total Time</key><integer>244166</integer>
+            <key>Year</key><integer>2000</integer>
+            <key>Date Modified</key><date>2003-05-27T19:08:50Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:04Z</date>
+            <key>Bit Rate</key><integer>192</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Comments</key><string>Ripped by CDragon</string>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/U2%20-%20Beautiful%20Day.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>198</key>
+        <dict>
+            <key>Track ID</key><integer>198</integer>
+            <key>Name</key><string>With Or Without You</string>
+            <key>Artist</key><string>U2</string>
+            <key>Composer</key><string>U2</string>
+            <key>Album</key><string>Best Of 1980 - 1990</string>
+            <key>Genre</key><string>Rock</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4780285</integer>
+            <key>Total Time</key><integer>298631</integer>
+            <key>Track Number</key><integer>3</integer>
+            <key>Year</key><integer>1998</integer>
+            <key>Date Modified</key><date>2003-05-27T22:01:28Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:05Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/U2%20-%20With%20Or%20Without%20You.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+        <key>201</key>
+        <dict>
+            <key>Track ID</key><integer>201</integer>
+            <key>Name</key><string>I Believe In You And Me</string>
+            <key>Artist</key><string>Whitney Houston</string>
+            <key>Album</key><string>The Greatest Hits</string>
+            <key>Genre</key><string>Pop</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>3754195</integer>
+            <key>Total Time</key><integer>234501</integer>
+            <key>Track Number</key><integer>14</integer>
+            <key>Track Count</key><integer>18</integer>
+            <key>Year</key><integer>2000</integer>
+            <key>Date Modified</key><date>2003-07-17T21:58:34Z</date>
+            <key>Date Added</key><date>2004-08-27T15:44:05Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Location</key><string>file://localhost/C:/tmp/Love%20Songs/Whitney%20Houston%20-%20I%20Believe%20In%20You%20And%20Me.mp3/</string>
+            <key>File Folder Count</key><integer>-1</integer>
+            <key>Library Folder Count</key><integer>-1</integer>
+        </dict>
+    </dict>
+    <key>Playlists</key>
+    <array>
+        <dict>
+            <key>Name</key><string>Library</string>
+            <key>Master</key><true/>
+            <key>Playlist ID</key><integer>35</integer>
+            <key>Playlist Persistent ID</key><string>0D02BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+            <key>Playlist Items</key>
+            <array>
+                <dict>
+                    <key>Track ID</key><integer>159</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>133</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>121</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>191</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>143</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>97</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>180</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>201</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>87</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>91</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>137</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>145</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>162</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>194</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>198</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>196</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>131</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>105</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>172</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>155</integer>
+                </dict>
+            </array>
+        </dict>
+        <dict>
+            <key>Name</key><string>90’s Music</string>
+            <key>Playlist ID</key><integer>47</integer>
+            <key>Playlist Persistent ID</key><string>1102BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+            <key>Smart Info</key>
+            <data>
+            AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAA==
+            </data>
+            <key>Smart Criteria</key>
+            <data>
+            U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+            AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+            </data>
+            <key>Playlist Items</key>
+            <array>
+                <dict>
+                    <key>Track ID</key><integer>87</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>121</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>159</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>180</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>191</integer>
+                </dict>
+                <dict>
+                    <key>Track ID</key><integer>198</integer>
+                </dict>
+            </array>
+        </dict>
+        <dict>
+            <key>Name</key><string>My Top Rated</string>
+            <key>Playlist ID</key><integer>38</integer>
+            <key>Playlist Persistent ID</key><string>0E02BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+            <key>Smart Info</key>
+            <data>
+            AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAA==
+            </data>
+            <key>Smart Criteria</key>
+            <data>
+            U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+            AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+            </data>
+        </dict>
+        <dict>
+            <key>Name</key><string>Party Shuffle</string>
+            <key>Playlist ID</key><integer>62</integer>
+            <key>Playlist Persistent ID</key><string>1202BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+        </dict>
+        <dict>
+            <key>Name</key><string>Recently Played</string>
+            <key>Playlist ID</key><integer>44</integer>
+            <key>Playlist Persistent ID</key><string>1002BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+            <key>Smart Info</key>
+            <data>
+            AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAA==
+            </data>
+            <key>Smart Criteria</key>
+            <data>
+            U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+            La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+            </data>
+        </dict>
+        <dict>
+            <key>Name</key><string>Top 25 Most Played</string>
+            <key>Playlist ID</key><integer>41</integer>
+            <key>Playlist Persistent ID</key><string>0F02BD7C8FDF38D4</string>
+            <key>All Items</key><true/>
+            <key>Smart Info</key>
+            <data>
+            AQABAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAA==
+            </data>
+            <key>Smart Criteria</key>
+            <data>
+            U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAACAAAAAAAAAAAAAAAAAAAAAAAA
+            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+            </data>
+        </dict>
+    </array>
+</dict>
+</plist>
